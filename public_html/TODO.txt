@@ -1,0 +1,11 @@
+2) Sign-up - Email verification?
+
+3) Change Rating to 1-9 instead of 1,15,2,25... (requires change on app side too)
+
+4) Multiple schools
+
+9) report test + move to another table when reports > 5
+
+13) error check queires (stmt = false, then ...)
+
+17) send notifcation if test is lowly rated
